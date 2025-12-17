@@ -31,9 +31,10 @@ I'm on a journey to become a skilled Business Analyst, focusing on:
 **Description:** Analyzed 31K+ transactions from UK online retail to identify top products and sales patterns. Cleaned raw data by handling missing values and outliers, then created insights using Pivot Tables.
 
 **Key Results:**
-- Cleaned 541K rows down to 31K valid transactions
+- Sampled 50K rows from 541K dataset for efficient analysis
+- Cleaned data from 50K to 31K valid transactions (removed missing IDs, returns, errors)
 - Identified top 3 best-selling products
-- Created revenue calculations and trend analysis
+- Created TotalPrice calculations and sales aggregations
 
 [📂 View Project](./Project-01-Ecommerce-Analysis/)
 
