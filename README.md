@@ -32,12 +32,27 @@ I'm on a journey to become a skilled Data Analyst, focusing on:
 
 **Key Results:**
 - Sampled 50K rows from 541K dataset for efficient analysis
-- Cleaned data from 50K to 31K valid transactions (removed missing IDs, returns, errors)
+- Cleaned data from 50K to 31,235 valid transactions (removed missing IDs, returns, errors)
 - Identified top 3 best-selling products
 - Created TotalPrice calculations and sales aggregations
 
 [📂 View Project](./Project-01-Ecommerce-Analysis/)
 
+### [Project 2: E-commerce SQL Analysis](./Project-02-SQL-Analysis/)
+**Skills:** SQL, PostgreSQL, Database Design, Data Analysis  
+**Tools:** PostgreSQL 18, pgAdmin, DBeaver  
+**Description:** Analyzed 31,235 transactions using SQL to extract business insights. Created database, wrote 10 analytical queries covering product performance, customer behavior, geographic sales, and business metrics.
+
+**Key Results:**
+- Set up PostgreSQL database with proper schema
+- Identified top products: WORLD WAR 2 GLIDERS (5,763 units), CREAM HEART CARD HOLDER (£515K revenue)
+- Analyzed customer base: 973 customers, £17.8M total revenue
+- Discovered primary market: United Kingdom
+- Average order value: £571.41
+
+[📂 View Project](./Project-02-SQL-Analysis/)
+
+---
 ---
 
 ### Coming Soon:
@@ -53,12 +68,13 @@ I'm on a journey to become a skilled Data Analyst, focusing on:
 - [x] Data cleaning fundamentals
 - [x] Excel/Sheets proficiency
 
-**Phase 2: SQL** 🔄 IN PROGRESS
-- [ ] Database basics
-- [ ] Query writing
-- [ ] Data manipulation
+**Phase 2: SQL** ✅ COMPLETED
+- [x] PostgreSQL setup
+- [x] Database design
+- [x] Complex queries (GROUP BY, aggregations)
+- [x] Business insights extraction
 
-**Phase 3: Python** 📅 PLANNED
+**Phase 3: Python** 🔄 IN PROGRESS
 - [ ] Pandas for data manipulation
 - [ ] Data visualization
 - [ ] Statistical analysis
