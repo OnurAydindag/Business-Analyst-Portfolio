@@ -53,7 +53,7 @@ CREATE TABLE sales (
 - Units sold: 381,404
 - Most common order: £100-500 range
 
-## 🔍 SQL Analysis (10 Queries)
+## 🔍 SQL Analysis
 
 1. Data validation and quality checks
 2. Product performance analysis
