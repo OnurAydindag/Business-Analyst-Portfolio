@@ -3,33 +3,33 @@
 Hi! I'm Onur Aydındağ, an aspiring Data Analyst building skills in data analysis, visualization, and business intelligence.
 
 ## 🎯 About Me
-I'm on a journey to become a skilled Data Analyst, focusing on:
+I'm developing my data analysis capabilities through self-directed learning and practical projects, with skills in:
 - Data cleaning and preparation
 - SQL for data querying and analysis
 - Python for data manipulation and visualization
-- Data visualization (Power BI, Tableau)
-- Business insights and storytelling
+- Business intelligence (Power BI, Tableau)
+- Translating data into actionable business insights
+
+This portfolio demonstrates my technical abilities and problem-solving approach through 5 end-to-end projects.
 
 ## 🛠️ Technical Skills
 
-### Currently Proficient:
-- **Spreadsheets:** Google Sheets, Excel (Data cleaning, Pivot Tables, Formulas)
+### Core Competencies:
+- **Spreadsheets:** Google Sheets, Excel (Data cleaning, Pivot Tables, Advanced formulas)
 - **SQL:** PostgreSQL (Database design, Complex queries, Aggregations)
-- **Python:** Pandas, NumPy, Matplotlib, Seaborn
-- **Power BI:** Interactive dashboards, DAX, Data visualization
-- **Tools:** pgAdmin, DBeaver, GitHub, Google Colab, Power BI Desktop
+- **Python:** Pandas, NumPy, Matplotlib, Seaborn (Data analysis & visualization)
+- **Power BI:** Interactive dashboards, DAX, Data modeling
+- **Tableau:** Interactive dashboards, Calculated fields, Customer segmentation
+- **Tools:** pgAdmin, DBeaver, GitHub, Google Colab, Power BI Desktop, Tableau Public
 
-### Currently Learning:
-- **Tableau:** Advanced storytelling and visualizations
-- **Advanced Analytics:** Statistical modeling, predictive analysis
-
-### Tools & Platforms:
-- GitHub for version control
-- Kaggle for datasets
-- PostgreSQL for database management
-- Google Colab for Python development
-- Power BI Desktop for business intelligence
-- Google Sheets for analysis
+### Professional Skills:
+- Data cleaning and transformation
+- Exploratory data analysis (EDA)
+- Statistical analysis
+- Customer segmentation
+- Business intelligence reporting
+- Data storytelling and visualization
+- Database design and management
 
 ## 📁 Projects
 
@@ -97,61 +97,84 @@ I'm on a journey to become a skilled Data Analyst, focusing on:
 
 ---
 
-### Coming Soon:
-- **Project 5:** Tableau Visualization (Marketing Campaign Analysis)
+### [Project 5: Marketing Campaign Dashboard (Tableau)](./Project-05-Tableau-Marketing-Campaign/)
+**Skills:** Tableau Public, Customer Segmentation, Data Visualization, Heatmap Analysis  
+**Tools:** Tableau Public, Calculated Fields  
+**Description:** Built interactive marketing dashboard analyzing 2,240 customer records to identify high-value segments and optimize campaign ROI. Created 5 visualizations including heatmap, scatter plot, and stacked bar charts with calculated fields for age groups, income tiers, and response rates.
 
-## 📚 Learning Path
+**Key Results:**
+- Identified golden segment: Graduation + High Income (87% response rate)
+- Analyzed 12,970 store purchases across 3 channels
+- Discovered 60+ age group as top spenders (~550K total)
+- Created 5 calculated fields for segmentation analysis
+- Built fully interactive dashboard with dynamic filters
+
+[📂 View Project](./Project-05-Tableau-Marketing-Campaign/) | [🔗 Live Dashboard](https://public.tableau.com/app/profile/onur.ayd.nda./viz/Marketing_Campaign_Analysis_17664064247640/MarketingCampaignPerformanceDashboard)
+
+---
+
+## 📚 Professional Development Journey
 
 **Phase 1: Foundations** ✅ COMPLETED
-- [x] GitHub setup and version control
-- [x] Data cleaning fundamentals
-- [x] Excel/Sheets proficiency
-- [x] Pivot Tables and aggregations
+- GitHub setup and version control
+- Data cleaning fundamentals
+- Excel/Sheets proficiency
+- Pivot Tables and aggregations
 
 **Phase 2: SQL** ✅ COMPLETED
-- [x] PostgreSQL setup and configuration
-- [x] Database design and schema creation
-- [x] Complex queries (GROUP BY, aggregations, CASE)
-- [x] Business insights extraction from data
-- [x] Data import and management
+- PostgreSQL setup and configuration
+- Database design and schema creation
+- Complex queries (GROUP BY, aggregations, CASE)
+- Business insights extraction from data
+- Data import and management
 
 **Phase 3: Python** ✅ COMPLETED
-- [x] Pandas for data manipulation
-- [x] NumPy for numerical analysis
-- [x] Data visualization with Matplotlib/Seaborn
-- [x] Statistical analysis and correlations
-- [x] Exploratory Data Analysis (EDA)
+- Pandas for data manipulation
+- NumPy for numerical analysis
+- Data visualization with Matplotlib/Seaborn
+- Statistical analysis and correlations
+- Exploratory Data Analysis (EDA)
 
-**Phase 4: BI Tools** ✅ COMPLETED
-- [x] Power BI dashboards
-- [x] Interactive visualizations
-- [x] DAX calculations
-- [x] Business intelligence reporting
+**Phase 4: Business Intelligence Tools** ✅ COMPLETED
+- Power BI dashboards and DAX
+- Tableau Public visualizations
+- Interactive filters and calculated fields
+- Customer segmentation analysis
+- Business intelligence reporting
 
-**Phase 5: Advanced** 🔄 IN PROGRESS
-- [ ] Tableau storytelling
-- [ ] Advanced analytics
-- [ ] Portfolio optimization
+**Phase 5: Advanced Visualization** ✅ COMPLETED
+- Heatmap creation and analysis
+- Multi-chart dashboard design
+- Storytelling with data
+- Professional presentation design
 
-## 🌟 Featured Skills
+## 🌟 Key Competencies
 - **Data Cleaning:** Handling missing values, outliers, duplicates
 - **SQL:** Complex queries, database design, data aggregation
 - **Python:** Pandas, NumPy, data visualization, statistical analysis
 - **Power BI:** Interactive dashboards, KPIs, DAX, business intelligence
+- **Tableau:** Interactive dashboards, calculated fields, customer segmentation, heatmaps
 - **Analysis:** Descriptive statistics, trend identification, business insights
-- **Tools:** PostgreSQL, Python, Power BI, Excel, Pivot Tables, Google Colab
+- **Tools:** PostgreSQL, Python, Power BI, Tableau Public, Excel, Google Sheets
 - **Business Intelligence:** Translating data into actionable recommendations
 
 ## 📫 Connect With Me
 - **GitHub:** [github.com/OnurAydindag](https://github.com/OnurAydindag)
 - **LinkedIn:** [linkedin.com/in/onur-aydındağ](https://www.linkedin.com/in/onur-ayd%C4%B1nda%C4%9F-aa528a216/)
 - **Email:** onuraydindag@gmail.com
+- **Tableau Public:** [View My Dashboards](https://public.tableau.com/app/profile/onur.ayd.nda./vizzes)
 
-## 🚀 Current Focus
-Expanding visualization skills with Tableau for advanced storytelling and interactive data narratives. Continuously building portfolio with real-world data analysis projects.
+## 💼 Portfolio Summary
+
+This portfolio demonstrates end-to-end data analysis capabilities through 5 comprehensive projects:
+- **Data Cleaning & Preparation** (Excel/Sheets)
+- **Database Design & SQL Analysis** (PostgreSQL)
+- **Statistical Analysis & Visualization** (Python)
+- **Business Intelligence Dashboards** (Power BI)
+- **Interactive Data Storytelling** (Tableau)
+
+All projects include real-world datasets, business insights, and actionable recommendations suitable for professional business environments.
 
 ---
 
-**Last Updated:** 21.12.2025
-
-*This portfolio is continuously evolving as I learn and grow in my Data Analyst journey!*
+**Portfolio Completed:** 22.12.2025
